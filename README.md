@@ -19,7 +19,7 @@ The program allows users to set a weekly food budget, add and remove grocery ite
 - Sort grocery prices using Bubble Sort.
 - Recommend affordable meals using a Greedy Selection algorithm.
 
-## Technologies Used
+## Technologies
 
 - Python 3
 - Google Colab
@@ -39,11 +39,8 @@ The program allows users to set a weekly food budget, add and remove grocery ite
 
 ## Algorithms
 
-### Bubble Sort
 
-Bubble Sort compares neighboring grocery prices and swaps them when they are in the wrong order. This organizes grocery items from lowest price to highest price.
-
-### Greedy Meal Selection
+### Meal Selection
 
 The Greedy Selection algorithm sorts sample meals by estimated cost and selects the cheapest meals that fit within the available meal budget.
 
@@ -73,7 +70,7 @@ All grocery and meal prices are illustrative sample values.
 - Grocery prices are sample estimates.
 - The program does not connect to live grocery store prices.
 - The program does not provide nutritional or allergy analysis.
-- The Greedy Selection algorithm does not guarantee an optimal meal plan.
+- The Selection algorithm does not guarantee an optimal meal plan.
 
 
 
