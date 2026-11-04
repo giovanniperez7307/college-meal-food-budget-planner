@@ -6,9 +6,8 @@ A budget planner to help students manage their spending on meals.
 
 **Created by:** Gio, A.J., and Jay
 
-## Project Description
+#Description
 
-The College Meal & Food Budget Planner is a Python application designed to help college students manage grocery expenses and plan affordable meals.
 
 The program allows users to set a weekly food budget, add and remove grocery items, calculate total spending, view their remaining budget, sort grocery items by price, and receive affordable meal recommendations.
 
